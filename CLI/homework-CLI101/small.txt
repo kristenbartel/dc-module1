@@ -1,0 +1,9 @@
+git status 
+
+rm -rf ./Sample 
+
+// command = rm = remove
+// argument = -rf = 'r' is recursive and 'f' is force without prompt
+// ./Sample = argument = this is a data location or file
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
